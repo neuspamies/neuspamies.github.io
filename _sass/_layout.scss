@@ -1,0 +1,288 @@
+body {
+    background-color: #f7f7f7;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.nav_item {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #444;
+}
+.nav_box {
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+}
+.social {
+    box-sizing: border-box;
+}
+.main_content {
+}
+.main_content h1 {
+    color: #333;
+    text-transform: uppercase;
+    /*text-shadow: 2px 2px #AAA;*/
+    letter-spacing: 4px;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 100px;
+}
+.main_content h2 {
+    color: #333;
+    text-transform: uppercase;
+    /*text-shadow: 2px 2px #AAA;*/
+    letter-spacing: 2px;
+    text-align: left;
+    font-weight: lighter;
+    border-bottom: 1px solid #333;
+    font-size: 12pt;
+    padding-bottom: 5px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.neus-gallery {
+  width: 100%;
+  float: left;
+  text-align: left;
+}
+.neus-gallery img {
+  width: 100%;
+  height: auto;
+}
+.neus-gallery figure {
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  width: 150px;
+}
+.neus-gallery figcaption {
+  display: none;
+}
+
+/*
+.nav_item:link {
+    color: blue;
+}
+.nav_item:hover {
+    color: inherit;
+}
+.nav_item:visited {
+    color: inherit;
+}
+.nav_item:active {
+    color: inherit;
+}*/
+
+.slideshow_title {
+    text-shadow: 2px 2px #444;
+    position: absolute;
+    top: 20%;
+    right: 20px;
+    left: 320px;
+    text-align: center;
+    color: #DDD;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.social_email img {
+    width: 150px;
+}
+
+.social_nets img {
+    width: 35px;
+    height: 35px;
+}
+
+.lang_selector {
+    box-sizing: border-box;
+    margin: 0;
+    color: #DDD;
+}
+
+.lang_link {
+    display: inline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #444;
+}
+
+.lang_link + .lang_link::before {
+    content: "·";
+}
+
+.lang_link a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.lang_selector_en:lang(en), .lang_selector_ca:lang(ca), .lang_selector_es:lang(es){
+    font-weight: bolder;
+}
+
+@media only screen and (min-width: 600px) {
+    .main_content {
+        margin: 0;
+        margin-left: 300px;
+        position: relative;
+        padding-top: 5%;
+        padding-bottom: 15%;
+        padding-left: 15%;
+        padding-right: 15%;
+        width: auto;
+    }
+    .slideshow_title {
+        left: 320px;
+    }
+    .nav_box {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100%;
+        width: 300px;
+        text-align: right;
+        display: flex;
+        padding-top: 20%;
+        padding-right: 20px;
+        justify-content: top;
+        flex-direction: column;
+        border-right: 1px solid #DDD;
+    }
+    .nav_item {
+        margin-bottom: 20px;
+        color: #DDD;
+        width: auto;
+        letter-spacing: 4px;
+        font-weight: lighter;
+    }
+    .nav_item[active] {
+        font-weight: bold;
+        letter-spacing: 4px;
+        color: white;
+    }
+
+    .social {
+        position: fixed;
+        bottom: 10%;
+        left: 0;
+        width: 300px;
+        text-align: right;
+        padding-right: 20px;
+    }
+
+    .lateral_background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100%;
+        width: 300px;
+        background: url(/images/neus_lateral.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        z-index: -2;
+    }
+    
+    .lang_selector {
+        width: 300px;
+        text-align: right;
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 20px;
+    } 
+}
+@media only screen and (max-width: 600px) {
+    .main_content {
+        margin: 0px;
+        margin-top: 180px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .slideshow_title {
+        left: 20px;
+    }
+    .nav_box {
+        position: absolute;
+        padding: 0;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 65px;
+        display: flex;
+        justify-content: space-around;
+        border-bottom: 1px solid #DDD;
+    }
+    .nav_item {
+        margin: 2px;
+        flex-grow: 1;
+        display: inline;
+        width: 0;
+        text-align: center;
+        padding-top: 45px;
+        color: #DDD;
+        font-size: 10px;
+    }
+    .nav_itemhome {
+        background: url(/images/icons/neus-home.png);
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: center 10px;
+    }
+    .nav_itemcv {
+        background: url(/images/icons/neus-cv.png);
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: center 10px;
+    }
+    .nav_itemgallery {
+        background: url(/images/icons/neus-gallery.png);
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: center 10px;
+    }
+    .nav_itemreel {
+        background: url(/images/icons/neus-reel.png);
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: center 10px;
+    }
+    .nav_itemmedia {
+        background: url(/images/icons/neus-media.png);
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: center 10px;
+    }
+    .nav_item[active] {
+        font-weight: bolder;
+        color: white;
+    }
+    .social { 
+        width: 100%;
+        text-align: center;
+        padding-top: 5px;
+        background: rgba(0, 0, 0, 0.5);
+        border-top: 1px solid #DDD;
+        border-bottom: 1px solid #DDD;
+        margin-top: 20px;
+    }
+    .social_floating {
+        position: fixed;
+        bottom: 10%;
+        left: 0;
+    }
+    .lang_selector {
+        width: 300px;
+        text-align: right;
+        position: absolute;
+        top: 70px;
+        right: 0;
+        padding: 20px;
+        padding-top: 10px;
+        color: #444;
+    } 
+    .lang_link {
+        text-shadow: 2px 2px #DDD;
+    }
+}

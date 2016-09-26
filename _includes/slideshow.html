@@ -1,0 +1,12 @@
+<script>
+var $body = $('body');
+$body.vegas({
+    slides: [
+    {% for slide in site.data.slides %}
+      { src: '{{slide.url}}' },
+    {% endfor %}
+    ],
+    transition: ["zoomOut"],
+    shiffle: true,
+});
+</script>

@@ -1,0 +1,41 @@
+---
+navname: gallery
+layout: page
+title: Galeria
+navigation_weight: 3
+lang: ca
+---
+
+<script>
+</script>
+
+<h2> Book </h2>
+
+<div class="neus-gallery">
+{% for image in site.static_files %}
+    {% if image.path contains 'images/gallery/book' %}
+      <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="{{ site.baseurl }}{{ image.path }}" itemprop="contentUrl" data-size="1024x1024">
+          <img src="{{ site.baseurl }}{{ image.path }}" itemprop="thumbnail" alt="image" />
+        </a>
+      </figure>
+    {% endif %}
+{% endfor %}
+</div>
+
+<h2> Projectes </h2>
+
+<div class="neus-gallery">
+{% for image in site.static_files %}
+    {% if image.path contains 'images/gallery/projects' %}
+      <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="{{ site.baseurl }}{{ image.path }}" itemprop="contentUrl" data-size="1024x1024">
+          <img src="{{ site.baseurl }}{{ image.path }}" itemprop="thumbnail" alt="image" />
+        </a>
+      </figure>
+    {% endif %}
+{% endfor %}
+</div>
+
+&nbsp;
+{% include photoswipe.html %}

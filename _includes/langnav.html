@@ -1,0 +1,15 @@
+<div class="lang_selector">
+{% assign posts=site.posts | where:"navname", page.navname | sort: 'lang' %}
+{% for post in posts %}
+  <span class="lang_link">
+    <a href="{{ post.url }}" class="lang_selector_{{ post.lang }}">{{ post.lang }}</a>
+  </span>
+{% endfor %}
+
+{% assign pages=site.pages | where:"navname", page.navname | sort: 'lang' %}
+{% for page in pages %}
+  <span class="lang_link">
+    <a href="{{ page.url }}" class="lang_selector_{{ page.lang }}">{{ page.lang }}</a>
+  </span>
+{% endfor %}
+</div>

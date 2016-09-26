@@ -1,0 +1,25 @@
+<nav class="nav_box">
+    {% assign navigation_pages = site.html_pages | where: "lang", "ca" | sort: 'navigation_weight' %}
+    {% for default in navigation_pages %}
+        {% assign translation = site.html_pages | where: "navname", default.navname | where: "lang", page.lang %}
+        {% if translation[0] and translation[0].navigation_weight %}
+            <a href="{{ translation[0].url }}"
+                class="nav_item nav_item{{ default.navname }}"
+                {% if default.navname == page.navname %}
+                active=true
+                {% endif %}>
+                {{ translation[0].title }}
+            </a>
+        {% elsif default.navigation_weight %}
+            <a href="{{ default.url }}"
+                class="nav_item nav_item{{ default.navname }}"
+                {% if default.navname == page.navname %}
+                active=true
+                {% endif %}>
+                {{ default.title }}
+            </a>
+        {% endif %}
+    {% endfor %}
+</nav>
+
+{% include langnav.html %}

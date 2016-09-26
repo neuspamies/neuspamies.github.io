@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+  <head>
+    <title>Neus Pamies</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <!-- Core CSS file -->
+    <link rel="stylesheet" href="/contrib/photoswipe/photoswipe.css"> 
+    <link rel="stylesheet" href="/contrib/photoswipe/default-skin/default-skin.css"> 
+
+    <script src="/contrib/photoswipe/photoswipe.min.js"></script> 
+    <script src="/contrib/photoswipe/photoswipe-ui-default.min.js"></script> 
+
+  </head>
+  <body>
+    {% include navigation.html %}
+    {% include lateral.html %}
+    <div class="main_content">
+        {{ content }}
+    </div>
+    {% include social.html %}
+  </body>
+</html>
