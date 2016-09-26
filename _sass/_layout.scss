@@ -191,7 +191,11 @@ body {
         top: 0;
         left: 0;
         padding: 20px;
-    } 
+    }
+    .videobox {
+        @include aspect-ratio(16,9);
+        width: 640px;
+    }
 }
 @media only screen and (max-width: 600px) {
     .main_content {
@@ -285,9 +289,8 @@ body {
     .lang_link {
         text-shadow: 2px 2px #DDD;
     }
-}
-
-.videobox {
-    width: 60%;
-    height: auto;
+    .videobox {
+        @include aspect-ratio(16,9);
+        width: 90%;
+    }
 }
