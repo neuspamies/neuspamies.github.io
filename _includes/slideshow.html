@@ -2,9 +2,9 @@
 var $body = $('body');
 $body.vegas({
     slides: [
-    {% for slide in site.data.slides %}
-      { src: '{{slide.url}}' },
-    {% endfor %}
+    {% for image in site.static_files %}{% if image.path contains 'images/slides' %}
+    { src: '{{image.path}}' },
+    {% endif %}{% endfor %}
     ],
     transition: ["zoomOut"],
     shiffle: true,

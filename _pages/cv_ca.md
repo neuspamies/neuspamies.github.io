@@ -4,6 +4,7 @@ layout: page
 title: CV
 navigation_weight: 2
 lang: ca
+permalink: /ca/cv
 ---
 
 

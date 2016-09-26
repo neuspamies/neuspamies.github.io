@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #f7f7f7;
+    background-color: $background-color;
     padding: 0px;
     margin: 0px;
     font-family: 'Raleway', sans-serif;
@@ -126,6 +126,21 @@ body {
     font-weight: bolder;
 }
 
+.videobox {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+
+.videobox iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 @media only screen and (min-width: 600px) {
     .main_content {
         margin: 0;
@@ -197,10 +212,6 @@ body {
         top: 0;
         left: 0;
         padding: 20px;
-    }
-    .videobox {
-        @include aspect-ratio(16,9);
-        width: 100%;
     }
 }
 @media only screen and (max-width: 600px) {
@@ -293,10 +304,6 @@ body {
         color: #444;
     } 
     .lang_link {
-        text-shadow: 2px 2px #DDD;
-    }
-    .videobox {
-        @include aspect-ratio(16,9);
-        width: 100%;
+        text-shadow: 2px 2px #efefef;
     }
 }
