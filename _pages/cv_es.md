@@ -13,36 +13,45 @@ Teatro
 
 2016
 
-* SCARAMOUCHE *de Albert Guinovart y Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo
-* ROMEU I JULIETA *de William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet
-* FANG I SETGE *de Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet
+SCARAMOUCHE *de Albert Guinovart y Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo
+
+ROMEU I JULIETA *de William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet
+
+FANG I SETGE *de Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet
 
 2015
 
-* TOP GIRLS *de Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet
-* NO OBSTANT AIXÒ… *basado en textos de J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet.
-* MARES I FILLES *de David Pintó y Clara Peya*. Teatre Gaudí – Dir. David Pintó.
-* YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
+TOP GIRLS *de Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet
+
+NO OBSTANT AIXÒ… *basado en textos de J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet.
+
+MARES I FILLES *de David Pintó y Clara Peya*. Teatre Gaudí – Dir. David Pintó.
+
+YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
 
 2014
 
-* CARLES&BELISA *de Pere Anglas y Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas.
-* TWO LADIES, *cabaret*. Codirección amb Noèlia Pérez. Club Barts
+CARLES&BELISA *de Pere Anglas y Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas.
+
+TWO LADIES, *cabaret*. Codirección amb Noèlia Pérez. Club Barts
 
 2013
 
-* BOIG PER TU! Sala Barts y Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
-* LLIBERTAT! *de Santiago Russiñol*. TNC – Dir. Josep Maria Mestres.
-* LA PARTIDA O CÒCTEL DE GAMBES *d’Albert Mestres*. La Seca – Dir. Marc Chornet.
+BOIG PER TU! Sala Barts y Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
+
+LLIBERTAT! *de Santiago Russiñol*. TNC – Dir. Josep Maria Mestres.
+
+LA PARTIDA O CÒCTEL DE GAMBES *d’Albert Mestres*. La Seca – Dir. Marc Chornet.
 
 2012
 
-* SOM LLAMP SOM CRUÏLLA. Gala de Presentación de Tarragona Capital Cultural 2012.
+SOM LLAMP SOM CRUÏLLA. Gala de Presentación de Tarragona Capital Cultural 2012.
 
 2011
 
-* LA NIT DE SANTA LLÚCIA. Auditorio de Barcelona – Dir: Paco Mir.
-* CARMELA LILÍ AMANDA *de Magda Puyo y Marc Chornet*. Sala Atrium.
+LA NIT DE SANTA LLÚCIA. Auditorio de Barcelona – Dir: Paco Mir.
+
+CARMELA LILÍ AMANDA *de Magda Puyo y Marc Chornet*. Sala Atrium.
 
 Formación
 ----------------------------------------------------------
