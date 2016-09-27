@@ -13,27 +13,27 @@ Theater
 
 2016:
 
-* SCARAMOUCHE by Albert Guinovart and Joan Lluís Bozzo. Teatre Victòria – Dir. Joan Lluís Bozzo
-* ROMEU I JULIETA by William Shakespeare. La Seca Espai Brossa – Dir. Marc Chornet
-* FANG I SETGE by Rossich/Brotons. Teatre Victòria – Dir. Marc Angelet
+* SCARAMOUCHE *by Albert Guinovart and Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo
+* ROMEU I JULIETA *by William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet
+* FANG I SETGE *by Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet
 
 2015:
 
-* TOP GIRLS by Caryl Churchill. Teatre Akadèmia – Dir. Marc Chornet
-* NO OBSTANT AIXÒ… based on texts by J.M. Muñoz Pujol. TNC – Dir. Marc Chornet.
-* MARES I FILLES by David Pintó and Clara Peya. Teatre Gaudí – Dir. David Pintó.
-* YO MATÉ A MI HIJA de Carmen Domingo. Sala Muntaner – Dir. Pep Molina.
+* TOP GIRLS *by Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet
+* NO OBSTANT AIXÒ… *based on texts by J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet.
+* MARES I FILLES *by David Pintó and Clara Peya*. Teatre Gaudí – Dir. David Pintó.
+* YO MATÉ A MI HIJA *by Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
 
 2014:
 
-* CARLES&BELISA by Pere Anglas and Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
-* TWO LADIES, cabaret. Codirected with Noèlia Pérez. Club Barts
+* CARLES&BELISA *by Pere Anglas and Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas.
+* TWO LADIES, *cabaret*. Codirected with Noèlia Pérez. Club Barts
 
 2013:
 
 * BOIG PER TU! Sala Barts and Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
-* LLIBERTAT! by Santiago Russiñol. TNC – Dir. Josep Maria Mestres.
-* LA PARTIDA O CÒCTEL DE GAMBES by Albert Mestres. La Seca – Dir. Marc Chornet.
+* LLIBERTAT! *by Santiago Russiñol*. TNC – Dir. Josep Maria Mestres.
+* LA PARTIDA O CÒCTEL DE GAMBES *by Albert Mestres*. La Seca – Dir. Marc Chornet.
 
 2012:
 
@@ -42,7 +42,7 @@ Theater
 
 2011:
 
-* CARMELA LILÍ AMANDA by Magda Puyo and Marc Chornet. Sala Atrium.
+* CARMELA LILÍ AMANDA *by Magda Puyo and Marc Chornet*. Sala Atrium.
 
 Education
 ----------------------------------------------------------
