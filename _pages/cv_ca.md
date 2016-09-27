@@ -31,9 +31,9 @@ YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
 
 2014
 
-CARLES&BELISA *de Pere Anglas i Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
+CARLES&BELISA *de Pere Anglas i Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas.
 
-TWO LADIES, *cabaret. Codirecció amb Noèlia Pérez*. Club Barts
+TWO LADIES, *cabaret*. Codirecció amb Noèlia Pérez. Club Barts
 
 2013
 
