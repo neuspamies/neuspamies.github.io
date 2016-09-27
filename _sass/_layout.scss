@@ -4,6 +4,10 @@
   &:after  { content:''; display: table; clear: both;  } 
 }
 
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Josefin+Slab';
+@import 'https://fonts.googleapis.com/css?family=Cinzel';
+
 body {
     background-color: $background-color;
     padding: 0px;
@@ -23,6 +27,7 @@ body {
     box-sizing: border-box;
 }
 .main_content {
+    font-family: 'Josefin Slab', serif;
 }
 .main_content h1 {
     color: #333;
@@ -34,6 +39,7 @@ body {
     margin-bottom: 100px;
 }
 .main_content h2 {
+    font-family: 'Cinzel', sans-serif;
     color: #333;
     text-transform: uppercase;
     /*text-shadow: 2px 2px #AAA;*/
