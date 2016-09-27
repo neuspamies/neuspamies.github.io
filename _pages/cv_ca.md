@@ -13,27 +13,27 @@ Teatre
 
 2016:
 
-* SCARAMOUCHE d’Albert Guinovart i Joan Lluís Bozzo. Teatre Victòria – Dir. Joan Lluís Bozzo
-* ROMEU I JULIETA de William Shakespeare. La Seca Espai Brossa – Dir. Marc Chornet
-* FANG I SETGE de Rossich/Brotons. Teatre Victòria – Dir. Marc Angelet
+* SCARAMOUCHE *d’Albert Guinovart i Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo
+* ROMEU I JULIETA *de William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet
+* FANG I SETGE *de Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet
 
 2015:
 
-* TOP GIRLS de Caryl Churchill. Teatre Akadèmia – Dir. Marc Chornet
-* NO OBSTANT AIXÒ… a partir de textos de J.M. Muñoz Pujol. TNC – Dir. Marc Chornet.
-* MARES I FILLES de David Pintó i Clara Peya. Teatre Gaudí – Dir. David Pintó.
-* YO MATÉ A MI HIJA de Carmen Domingo. Sala Muntaner – Dir. Pep Molina.
+* TOP GIRLS *de Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet
+* NO OBSTANT AIXÒ… *a partir de textos de J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet.
+* MARES I FILLES *de David Pintó i Clara Peya*. Teatre Gaudí – Dir. David Pintó.
+* YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
 
 2014:
 
-* CARLES&BELISA de Pere Anglas i Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
-* TWO LADIES, cabaret. Codirecció amb Noèlia Pérez. Club Barts
+* CARLES&BELISA *de Pere Anglas i Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
+* TWO LADIES, *cabaret. Codirecció amb Noèlia Pérez*. Club Barts
 
 2013:
 
 * BOIG PER TU! Sala Barts i Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
-* LLIBERTAT! de Santiago Russiñol. TNC – Dir. Josep Maria Mestres.
-* LA PARTIDA O CÒCTEL DE GAMBES d’Albert Mestres. La Seca – Dir. Marc Chornet.
+* LLIBERTAT! *de Santiago Russiñol*. TNC – Dir. Josep Maria Mestres.
+* LA PARTIDA O CÒCTEL DE GAMBES *d’Albert Mestres*. La Seca – Dir. Marc Chornet.
 
 2012:
 
@@ -42,7 +42,7 @@ Teatre
 
 2011:
 
-* CARMELA LILÍ AMANDA de Magda Puyo i Marc Chornet. Sala Atrium.
+* CARMELA LILÍ AMANDA *de Magda Puyo i Marc Chornet*. Sala Atrium.
 
 Formació
 ----------------------------------------------------------
