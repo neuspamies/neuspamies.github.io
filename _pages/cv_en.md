@@ -13,54 +13,54 @@ Theater
 
 2016:
 
-* SCARAMOUCHE d’Albert Guinovart i Joan Lluís Bozzo. Teatre Victòria – Dir. Joan Lluís Bozzo
-* ROMEU I JULIETA de William Shakespeare. La Seca Espai Brossa – Dir. Marc Chornet
-* FANG I SETGE de Rossich/Brotons. Teatre Victòria – Dir. Marc Angelet
+* SCARAMOUCHE by Albert Guinovart and Joan Lluís Bozzo. Teatre Victòria – Dir. Joan Lluís Bozzo
+* ROMEU I JULIETA by William Shakespeare. La Seca Espai Brossa – Dir. Marc Chornet
+* FANG I SETGE by Rossich/Brotons. Teatre Victòria – Dir. Marc Angelet
 
 2015:
 
-* TOP GIRLS de Caryl Churchill. Teatre Akadèmia – Dir. Marc Chornet
-* NO OBSTANT AIXÒ… a partir de textos de J.M. Muñoz Pujol. TNC – Dir. Marc Chornet.
-* MARES I FILLES de David Pintó i Clara Peya. Teatre Gaudí – Dir. David Pintó.
+* TOP GIRLS by Caryl Churchill. Teatre Akadèmia – Dir. Marc Chornet
+* NO OBSTANT AIXÒ… based on texts by J.M. Muñoz Pujol. TNC – Dir. Marc Chornet.
+* MARES I FILLES by David Pintó and Clara Peya. Teatre Gaudí – Dir. David Pintó.
 * YO MATÉ A MI HIJA de Carmen Domingo. Sala Muntaner – Dir. Pep Molina.
 
 2014:
 
-* CARLES&BELISA de Pere Anglas i Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
-* TWO LADIES, cabaret. Codirecció amb Noèlia Pérez. Club Barts
+* CARLES&BELISA by Pere Anglas and Joan Vallcorba. Museu de Mataró – Dir. Pere Anglas.
+* TWO LADIES, cabaret. Codirected with Noèlia Pérez. Club Barts
 
 2013:
 
-* BOIG PER TU! Sala Barts i Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
-* LLIBERTAT! de Santiago Russiñol. TNC – Dir. Josep Maria Mestres.
-* LA PARTIDA O CÒCTEL DE GAMBES d’Albert Mestres. La Seca – Dir. Marc Chornet.
+* BOIG PER TU! Sala Barts and Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
+* LLIBERTAT! by Santiago Russiñol. TNC – Dir. Josep Maria Mestres.
+* LA PARTIDA O CÒCTEL DE GAMBES by Albert Mestres. La Seca – Dir. Marc Chornet.
 
 2012:
 
-* SOM LLAMP SOM CRUÏLLA. Gala de Presentació de Tarragona Capital Cultural 2012.
+* SOM LLAMP SOM CRUÏLLA. Inagural ceremony of "Tarragona Capital Cultural 2012".
 * LA NIT DE SANTA LLÚCIA. Auditori de Barcelona – Dir: Paco Mir.
 
 2011:
 
-* CARMELA LILÍ AMANDA de Magda Puyo i Marc Chornet. Sala Atrium.
+* CARMELA LILÍ AMANDA by Magda Puyo and Marc Chornet. Sala Atrium.
 
 Education
 ----------------------------------------------------------
 
 Performing Arts:
 
-* 2011-2015 - Grau d’Art Dramàtic per l’ESAD de l’Institut del Teatre.
-* 2014 - Masterclass amb Declan Donellan, Festival Grec.
-* 2010 - Interpretació, veu i cos. Col·legi de Teatre de Barcelona.
-* 2008-2009 - Entrenament actoral amb Raimon Molins. Atrium Estudi.
-* 2007 - Commedia dell’Arte amb Felipe Cabezas. Teatre Estudis Berty Tovías.
-* 2007 - El imaginario actoral, seminari amb Alejandro Catalán. Sala Trono.
-* 2007 - Teatre gestual amb Siro López. Teatre Metropol, Tarragona.
+* 2011-2015 - BA in Performing Arts by ESAD of the "Institut del Teatre".
+* 2014 - Masterclass with Declan Donellan, Festival Grec.
+* 2010 - Interpretation, voice and body. Theater School of Barcelona.
+* 2008-2009 - Performing arts coaching with Raimon Molins. Atrium Estudi.
+* 2007 - "Commedia dell’Arte" with Felipe Cabezas. Teatre Estudis Berty Tovías.
+* 2007 - "El imaginario actoral", seminar with Alejandro Catalán. Sala Trono.
+* 2007 - Physical Theater with Siro López. Teatre Metropol, Tarragona.
 
-Singing and Music:
+Vocal and Music:
 
-* Seminari de cant-jazz amb Diana Palau. Taller de Músics de Barcelona.
-* Cant clàssic i modern amb Isabel Soriano, Teresa Valls i Teresa Català.
-* 2010 - Grau Professional de Música, PIANO. Conservatori Professional de Música de Tarragona.
-* 2006 - Grau Elemental de Música, VIOLÍ. EMM, Valls.
-* 2003 - Seminari de música de cambra amb Robert Cannetti. Escola Marshall, Barcelona.
+* Vocal jazz seminar with Diana Palau. Taller de Músics de Barcelona.
+* Classical and modern singing with Isabel Soriano, Teresa Valls and Teresa Català.
+* 2010 - MA in Music, with Piano emphasis. Music Conservatory of Tarragona.
+* 2006 - BA in Music, with Piano & Violin emphsasis, Municipal Music School of Valls.
+* 2003 - Chamber music seminar with Robert Cannetti. Marshall School, Barcelona.
