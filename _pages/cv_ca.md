@@ -11,53 +11,42 @@ permalink: /ca/cv
 Teatre
 -------------------------------------------
 
-2016
+SCARAMOUCHE *d’Albert Guinovart i Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo 2016/17
 
-SCARAMOUCHE *d’Albert Guinovart i Joan Lluís Bozzo*. Teatre Victòria – Dir. Joan Lluís Bozzo
+ROMEU I JULIETA *de William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet 2016
 
-ROMEU I JULIETA *de William Shakespeare*. La Seca Espai Brossa – Dir. Marc Chornet
+FANG I SETGE *de Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet 2016
 
-FANG I SETGE *de Rossich/Brotons*. Teatre Victòria – Dir. Marc Angelet
+TOP GIRLS *de Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet 2015/16
 
-2015
+NO OBSTANT AIXÒ… *a partir de textos de J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet 2015
 
-TOP GIRLS *de Caryl Churchill*. Teatre Akadèmia – Dir. Marc Chornet
+MARES I FILLES *de David Pintó i Clara Peya*. Teatre Gaudí – Dir. David Pintó 2015
 
-NO OBSTANT AIXÒ… *a partir de textos de J.M. Muñoz Pujol*. TNC – Dir. Marc Chornet.
+YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina 2015
 
-MARES I FILLES *de David Pintó i Clara Peya*. Teatre Gaudí – Dir. David Pintó.
+CARLES&BELISA *de Pere Anglas i Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas 2014/15
 
-YO MATÉ A MI HIJA *de Carmen Domingo*. Sala Muntaner – Dir. Pep Molina.
+TWO LADIES, *cabaret*. Codirecció amb Noèlia Pérez. Club Barts 2014
 
-2014
+BOIG PER TU! Sala Barts i Teatre Borràs – Dir. Ricard Reguant/Pep Sala 2013/14
 
-CARLES&BELISA *de Pere Anglas i Joan Vallcorba*. Museu de Mataró – Dir. Pere Anglas.
+LLIBERTAT! *de Santiago Russiñol*. TNC – Dir. Josep Maria Mestres 2013
 
-TWO LADIES, *cabaret*. Codirecció amb Noèlia Pérez. Club Barts
+LA PARTIDA O CÒCTEL DE GAMBES *d’Albert Mestres*. La Seca – Dir. Marc Chornet 2013
 
-2013
+SOM LLAMP SOM CRUÏLLA. Gala de Presentació de Tarragona Capital Cultural 2012
 
-BOIG PER TU! Sala Barts i Teatre Borràs – Dir. Ricard Reguant/Pep Sala.
+LA NIT DE SANTA LLÚCIA. Auditori de Barcelona – Dir: Paco Mir 2011
 
-LLIBERTAT! *de Santiago Russiñol*. TNC – Dir. Josep Maria Mestres.
-
-LA PARTIDA O CÒCTEL DE GAMBES *d’Albert Mestres*. La Seca – Dir. Marc Chornet.
-
-2012
-
-SOM LLAMP SOM CRUÏLLA. Gala de Presentació de Tarragona Capital Cultural 2012.
-
-2011
-
-LA NIT DE SANTA LLÚCIA. Auditori de Barcelona – Dir: Paco Mir.
-
-CARMELA LILÍ AMANDA *de Magda Puyo i Marc Chornet*. Sala Atrium.
+CARMELA LILÍ AMANDA *de Magda Puyo i Marc Chornet*. Sala Atrium 2011
 
 Formació
 ----------------------------------------------------------
 
 Interpretació:
 
+* 2017 - Potgrau Interpretació en l'Audiovisual, Institut del Teatre. Coord: Lluis Maria Güell
 * 2011-2015 - Grau d’Art Dramàtic per l’ESAD de l’Institut del Teatre.
 * 2014 - Masterclass amb Declan Donellan, Festival Grec.
 * 2010 - Interpretació, veu i cos. Col·legi de Teatre de Barcelona.
